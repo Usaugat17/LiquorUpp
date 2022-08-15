@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "606309682401",
+    "firebase_url": "https://liquor-inventory-9f4e2-default-rtdb.firebaseio.com",
+    "project_id": "liquor-inventory-9f4e2",
+    "storage_bucket": "liquor-inventory-9f4e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606309682401:android:9803ec3b944eff1b79fba0",
+        "android_client_info": {
+          "package_name": "com.example.liquor_inventory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606309682401-t6cjrrhjct2fof9v1cq87nsq5c8tdcmt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.liquor_inventory",
+            "certificate_hash": "b62194b2950349908f1bae15cd12bb19b6db5ae8"
+          }
+        },
+        {
+          "client_id": "606309682401-h6celd46aqpojgipm5v185ivoctn54at.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZakrx3sqgWDWQp5h2PmrLFFO6Q0O2HAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606309682401-h6celd46aqpojgipm5v185ivoctn54at.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
